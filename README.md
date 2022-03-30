@@ -1,2 +1,1 @@
-# prueba3Dgps
-prueba3Dgps
+# realidad3d
