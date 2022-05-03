@@ -12,8 +12,8 @@ function staticLoadPlaces() {
             name: 'Pokèmon',
             location: {
                 // decomment the following and add coordinates:
-                 lat: 17.2502190,
-                 lng: 97.6909520,
+                 lat: 17.259830,
+                 lng: -97.664869,
             },
         },
     ];
@@ -21,22 +21,22 @@ function staticLoadPlaces() {
 
 var models = [
     {
-        url: './assets/magnemite/monito.glb',
-        scale: '0.5 0.5 0.5',
-        info: 'Magnemite, Lv. 5, HP 10/10',
+        url: './assets/recamara/Tlax-room.glb',
+        scale: '25 25 25',
+        info: 'Recamara, Lv. 5, HP 10/10',
         rotation: '0 180 0',
     },
     {
-        url: './assets/articuno/cama.glb',
-        scale: '0.2 0.2 0.2',
+        url: './assets/silla/silla.glb',
+        scale: '5 5 5',
         rotation: '0 180 0',
-        info: 'Articuno, Lv. 80, HP 100/100',
+        info: 'Silla, Lv. 80, HP 100/100',
     },
     {
-        url: './assets/dragonite/Tlax-room.glb',
-        scale: '0.08 0.08 0.08',
+        url: './assets/mesa/mesa.glb',
+        scale: '5 5 5',
         rotation: '0 180 0',
-        info: 'Dragonite, Lv. 99, HP 150/150',
+        info: 'mesa, Lv. 99, HP 150/150',
     },
 ];
 
